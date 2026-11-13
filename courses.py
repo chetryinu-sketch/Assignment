@@ -1,5 +1,5 @@
 print("Student Courses")
 
-courses = ["Python", "Java", "Data Structures","C"]
+courses = ["C", "Data Structures", "Java", "Python", "Rust"]
 
 print("Courses:", courses)
